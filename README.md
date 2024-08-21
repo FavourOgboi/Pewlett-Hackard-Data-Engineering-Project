@@ -6,7 +6,6 @@
 This project involves organizing and analyzing employee data from the 1980s and 1990s at Pewlett Hackard. It covers data modeling, engineering, and analysis tasks.
 
 ## Project Structure
-- **Repository:** [sql-challenge](https://github.com/FoziaY/sql-challenge)
 - **Local Directory:** EmployeeSQL
 
 ## Instructions
@@ -21,6 +20,7 @@ Inspect the following CSV files, representing various aspects of employee data:
 - **titles.csv:** Employee titles
 
  A simple diagram or table schemas for the data. For the Entity Relationship Diagram (ERD), refer to the image file.
+<img src="/EmployeeSQL/Image/quickdbdNewDiagram.PNG" alt="Crowdfunding Project Analysis" style="width: 100%; height: auto;">
 
 ### Data Engineering
 - Create tables to store CSV data.
